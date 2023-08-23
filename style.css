@@ -1,3 +1,18 @@
 body {
-    background: lightcoral;
+    background: rgb(239, 223, 223);
+    font-family:Arial, Helvetica, sans-serif ;
+  }
+
+  h1{
+    font-size: 50px;
+    text-align: center;
+    
+
+  }
+
+  .column{
+
+    /*float:left;
+    margin: 50%;
+    */
   }
